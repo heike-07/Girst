@@ -1,0 +1,23 @@
+
+-DevelopmentLog-
+
+#Date：2017-04-18
+    |-确定开发所用语言，开发所用IDE，开发所用软件，开发所用框架
+    |-了解Pyhton语言 和 Django框架
+    |-下载软件开发环境
+    |-测试环境
+
+#Date：2017-04-19
+    |-搭建Django框架
+    |-编写hello world 测试程序
+    |-构建url访问规则
+    |-构建class view 类
+    |-构建Templates hello world 视图
+
+#Date：2017-04-20
+    |-构建models 数据库交互
+    |-实现可以提取数据库的内容到前台
+    |-开始学习如何与数据库交互
+
+#Date：2017-04-21
+
