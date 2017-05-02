@@ -10,7 +10,7 @@
 </h1>
 
 {% for article in articles %}
-    <a href="{% url 'Gitapp:article_page' article_id %}">{{ article.title }}</a>
+    <a href="{% url 'article_page' article.id %}">{{ article.title }}</a>
     <br/>
 {% endfor %}
 
